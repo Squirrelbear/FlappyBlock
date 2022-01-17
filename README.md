@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Flappy Block game works. 
 
+- ([Youtube Demo](https://youtu.be/JSSfoseU8CQ))
+
 # 1.3 The Rules of Flappy Block
 
 Flappy Block is a simplified copy of Flappy Bird. Following a very similar set of rules, except instead of
